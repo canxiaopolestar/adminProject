@@ -37,7 +37,7 @@
         justify-content: space-between;
         color: #1890ff;
         background: #fff;
-        \ i {
+        i {
           font-size: 24px;
           color: rgba(255, 255, 255, 0.3);
         }
@@ -50,9 +50,9 @@
           margin: 10px 0;
         }
         input {
-          background-color: rgba(255, 255, 255, 0.2);
-          border: none;
-          color: rgba(255, 255, 255, 0.8);
+          background-color: rgba(255, 255, 255, 0.4);
+
+          color: #333;
           &::-webkit-input-placeholder {
             color: rgba(255, 255, 255, 0.8);
           }

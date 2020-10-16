@@ -25,14 +25,5 @@ export const leftNavData = [{
       },
 
     ]
-  },
-
-  {
-    id: 'systemSet',
-    path: '/systemSet',
-    name: '系统设置',
-    iconType: 'fa',
-    icon: 'fa-cog',
-    query: {},
   }
 ];

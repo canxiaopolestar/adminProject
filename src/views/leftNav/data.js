@@ -318,7 +318,7 @@ export const leftNavData = [{
     path: '/home12',
     name: '样本处理',
     iconType: 'antd',
-    icon: 'team',
+    icon: 'bank',
     query: {},
     children: [{
         id: 'userManageList23',
@@ -344,7 +344,7 @@ export const leftNavData = [{
     path: '/home13',
     name: '实验任务',
     iconType: 'antd',
-    icon: 'team',
+    icon: 'bell',
     query: {},
     children: [{
         id: 'userManageList25',
@@ -411,7 +411,7 @@ export const leftNavData = [{
     path: '/home14',
     name: '实验统计',
     iconType: 'antd',
-    icon: 'team',
+    icon: 'block',
     query: {},
     children: [{
         id: 'userManageList33',
@@ -443,7 +443,7 @@ export const leftNavData = [{
     path: '/home15',
     name: '生信管理',
     iconType: 'antd',
-    icon: 'team',
+    icon: 'book',
     query: {},
     children: [{
       id: 'userManageList36',
